@@ -8,7 +8,7 @@ img {
 }
 
 h1, h2 {
-  font-family: "Big Shoulders Text", sans-serif;
+  font-family: "Patua One", sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -22,7 +22,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: "Big Shoulders Text", sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
@@ -39,6 +39,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
-.into {
+.intro {
   font-size: 1rem;
 }
